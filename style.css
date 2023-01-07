@@ -122,4 +122,21 @@ color:#ff7200
     border: none ;
     margin-bottom: 10px;
     margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    /*
+    cursor: pointer;
+    Not working....!
+    */
+    transition: .4s ease;
+}
+
+.content .cn a{
+    text-decoration:none;
+    color: #000;
+    transition: .3s ease;
+}
+.cn:hover{
+    background-color: #fff;
+
 }
